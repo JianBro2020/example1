@@ -1,4 +1,12 @@
-* 2 avacados
+* 2 corrected typo
 * 1 lime
 * 2 tsp salt
+<<<<<<< HEAD
 * 1000000 tbsp coriander 
+=======
+<<<<<<< HEAD
+* 2 tsp coriander 
+=======
+* 2 tbsp coriander 
+>>>>>>> experiment
+>>>>>>> master
