@@ -1,6 +1,6 @@
 * 2 corrected typo
 * 1 lime
-* 2 tsp salt
+* 3 tsp salt
 <<<<<<< HEAD
 * 1000000 tbsp coriander 
 =======
